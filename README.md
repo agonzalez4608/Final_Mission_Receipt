@@ -21,7 +21,8 @@ To run the project:
 ### 2. Final Mission Receipt
 The Final Mission Receipt is included in the root of this repository:
 
-`FINAL MISSION RECEIPT.pdf
+`FINALMISSIONRECEIPT.pdf
+
 ### 3. Discord Post Screenshot
 A screenshot showing that I posted my Final Mission Receipt in Discord is included in the root of this repository:
 
