@@ -1,28 +1,39 @@
-# Dungeon Game Final Project
+# CS120 Final Project – The Forge
 
 ## Student
 Alexis Gonzalez
 
 ## Project Description
-This is my final VB.NET dungeon game project for CS120.
+This repository contains my CS120 final project created using VB.NET in Visual Studio.
 
-## Deliverables
+The goal of this project is to create a working VB.NET application that opens and runs successfully.
 
-### VB.NET Application
-The working Visual Studio/VB.NET project is located in:
-`/DungeonGame/`
+## Final Project Deliverables
 
-### Storyboard and Pseudocode
-My storyboard and pseudocode are located in:
-`/Storyboard/Storyboard.pptx`
+### 1. Working VB.NET Application
+The Visual Studio project files for my working VB.NET application are included in this repository.
 
-### Final Mission Receipt
+To run the project:
+1. Download or clone this repository.
+2. Open the Visual Studio solution/project file.
+3. Run the application in Visual Studio.
+
+### 2. Final Mission Receipt
+The Final Mission Receipt is included in the root of this repository:
+
 `FINAL_MISSION_RECEIPT.pdf`
 
-### Discord Proof
-`Discord_Post_Screenshot.png`
+### 3. Discord Post Screenshot
+A screenshot showing that I posted my Final Mission Receipt in Discord is included in the root of this repository:
 
-## How to Run
-1. Open the DungeonGame folder.
-2. Open DungeonGame.sln in Visual Studio.
-3. Click Start to run the game.
+`Discord_Proof.png`
+
+### 4. Git Repository
+This repository contains the files required for my CS120 final project submission.
+
+## Project Requirements
+- Working VB.NET application that opens and runs
+- Root README that maps the project deliverables
+- Accessible Git repository
+- FINAL_MISSION_RECEIPT.pdf
+- Screenshot of the Discord receipt post
