@@ -4,36 +4,72 @@
 Alexis Gonzalez
 
 ## Project Description
-This repository contains my CS120 final project created using VB.NET in Visual Studio.
+# Final Mission Receipt – CS120
 
-The goal of this project is to create a working VB.NET application that opens and runs successfully.
+## Project Overview
 
-## Final Project Deliverables
+This repository contains my **CS120 Final Mission Receipt** project and all required submission materials.
 
-### 1. Working VB.NET Application
-The Visual Studio project files for my working VB.NET application are included in this repository.
+My Visual Studio project was created using **VB.NET** and can be found inside the **`TheForge Dungeon Game`** folder in this repository.
 
-To run the project:
-1. Download or clone this repository.
-2. Open the Visual Studio solution/project file.
-3. Run the application in Visual Studio.
+## Visual Studio Project
 
-### 2. Final Mission Receipt
-The Final Mission Receipt is included in the root of this repository:
+ **Project Folder:** `TheForge Dungeon Game`
 
-`FINALMISSIONRECEIPT.pdf
+Inside this folder are the files needed to open and view my VB.NET project in Visual Studio, including:
 
-### 3. Discord Post Screenshot
-A screenshot showing that I posted my Final Mission Receipt in Discord is included in the root of this repository:
+* `TheForge Dungeon Game.slnx`
+* `TheForge Dungeon Game.vbproj`
+* `MainWindow.xaml`
+* `MainWindow.xaml.vb`
 
-`Discord_Proof.png`
+### How to Open the Project
 
-### 4. Git Repository
-This repository contains the files required for my CS120 final project submission.
+1. Download or clone this GitHub repository.
+2. Open the **`TheForge Dungeon Game`** folder.
+3. Open **`TheForge Dungeon Game.slnx`** in Visual Studio.
+4. Allow Visual Studio to load the project.
+5. Run the project using the **Start** button.
 
-## Project Requirements
-- Working VB.NET application that opens and runs
-- Root README that maps the project deliverables
-- Accessible Git repository
-- FINAL_MISSION_RECEIPT.pdf
-- Screenshot of the Discord receipt post
+## Final Mission Receipt
+
+ **FinalMissionReceipt.pdf**
+
+This PDF contains my completed Final Mission Receipt and documentation for the project.
+
+## Discord Proof
+
+ **Discord Proof.png**
+
+This image is included as proof of my participation and required Discord activity.
+
+## Repository Contents
+
+```text
+Final_Mission_Receipt/
+│
+├── TheForge Dungeon Game/
+│   ├── TheForge Dungeon Game.slnx
+│   ├── TheForge Dungeon Game.vbproj
+│   ├── MainWindow.xaml
+│   ├── MainWindow.xaml.vb
+│   └── Additional project files
+│
+├── FinalMissionReceipt.pdf
+├── Discord Proof.png
+└── README.md
+```
+
+## Project Information
+
+* **Course:** CS120
+* **Programming Language:** VB.NET
+* **Development Environment:** Microsoft Visual Studio
+* **Project Type:** WPF Application
+* **Final Submission:** Final Mission Receipt
+
+## Notes
+
+The complete Visual Studio project is located inside the **`TheForge Dungeon Game`** folder rather than directly in the root of the repository.
+
+All required project files, documentation, and proof files are included in this repository for final submission.
