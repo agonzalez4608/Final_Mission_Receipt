@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Aela",
+  "Health": 72,
+  "MaxHealth": 100,
+  "AttackPower": 15,
+  "Gold": 30,
+  "CurrentRoom": "Crypt of Shadows",
+  "Inventory": [ "Iron Sword", "Health Potion", "Ancient Key" ]
+}
